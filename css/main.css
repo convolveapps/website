@@ -337,6 +337,9 @@ main .section-image img {
   transform: translateX(-10%);
   opacity: 0;
 }
+main a.card {
+  text-decoration: none;
+}
 main .card {
   min-height: 20rem;
   transition: transform 0.2s;

@@ -350,6 +350,9 @@ main{
         opacity: 0;
     }
 
+    a.card{
+        text-decoration: none;
+    }
     .card{
         min-height: 20rem;
         transition: transform 0.2s;
